@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**kemalderya/kemalderya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kemal Derya, a Ph.D. candidate passionate about cybersecurity and cryptography research.
 
-Here are some ideas to get you started:
+### 🎓 Current Status
+- Ph.D. candidate at Worcester Polytechnic Institute (Massachusetts, USA)
+- Advised by Berk Sunar
+- Research focus: microarchitectural security, post-quantum cryptography, and AI safety
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Current Research
+- Hardware-based attacks and defenses
+- Side-channel and fault injection techniques targeting cryptographic implementations
+- Intersection of AI and cryptography
+- Machine learning system vulnerabilities through cryptographic approaches
+
+### 🎯 Research Interests
+- Microarchitectural security
+- Post-quantum cryptography
+- AI safety and security
+- Hardware security implementations
+
+### 🏫 Education Background
+- **M.S. in Electronics Engineering** - Sabancı University, Istanbul, Turkey
+- **B.S. in Electronics Engineering** - Sabancı University, Istanbul, Turkey
+- Graduate research: FPGA implementation of post-quantum cryptography schemes
