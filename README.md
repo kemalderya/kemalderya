@@ -13,5 +13,6 @@ I'm Kemal Derya, a Ph.D. candidate passionate about cybersecurity and cryptograp
 
 ### Links
 - [kemalderya.github.io](https://kemalderya.github.io/)
+- [CV](https://kemalderya.github.io/assets/pdf/cv_05_25.pdf)
 - [LinkedIn](https://www.linkedin.com/in/kemal-derya/)
 - [Google Scholar](https://scholar.google.com/citations?user=kf0t4FgAAAAJ&hl=en&oi=ao)
