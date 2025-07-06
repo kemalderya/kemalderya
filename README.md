@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kemal Derya, a Ph.D. candidate passionate about cybersecurity and cryptography research.
+I'm Kemal Derya, a Ph.D. candidate passionate about cybersecurity and cryptography research, advised by Berk Sunar.
 
 ### 🎓 Current Status
 - Ph.D. candidate at Worcester Polytechnic Institute (Massachusetts, USA)
