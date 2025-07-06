@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kemal Derya, a Ph.D. candidate passionate about cybersecurity and cryptography research. [kemalderya](https://kemalderya.github.io/)
+I'm Kemal Derya, a Ph.D. candidate passionate about cybersecurity and cryptography research.
 
 ### 🎓 Current Status
 - Ph.D. candidate at Worcester Polytechnic Institute (Massachusetts, USA)
@@ -11,6 +11,7 @@ I'm Kemal Derya, a Ph.D. candidate passionate about cybersecurity and cryptograp
 - Side-channel and fault injection techniques targeting cryptographic implementations
 - Intersection of AI and cryptography
 
-### 🏫 Education Background
-- **M.S. in Electronics Engineering** - Sabancı University, Istanbul, Turkey
-- **B.S. in Electronics Engineering** - Sabancı University, Istanbul, Turkey
+### Links
+- [kemalderya.github.io](https://kemalderya.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/kemal-derya/)
+- [Google Scholar](https://scholar.google.com/citations?user=kf0t4FgAAAAJ&hl=en&oi=ao)
