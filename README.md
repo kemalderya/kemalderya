@@ -11,10 +11,6 @@ I'm Kemal Derya, a Ph.D. candidate passionate about cybersecurity and cryptograp
 - Side-channel and fault injection techniques targeting cryptographic implementations
 - Intersection of AI and cryptography
 
-### 🎯 Research Interests
-- Microarchitectural security
-- AI safety and security
-
 ### 🏫 Education Background
 - **M.S. in Electronics Engineering** - Sabancı University, Istanbul, Turkey
 - **B.S. in Electronics Engineering** - Sabancı University, Istanbul, Turkey
