@@ -2,7 +2,7 @@
 
 Ph.D. candidate at **Worcester Polytechnic Institute**, [Vernam Lab](https://vernamlab.org/), advised by Prof. Berk Sunar.
 
-> **On the industry job market** for research/engineering roles in **trustworthy AI** and **hardware security**.
+**On the industry job market** — seeking research/engineering roles in **trustworthy AI** and **hardware security**.
 
 ### 🔬 Research
 
@@ -17,6 +17,10 @@ Ph.D. candidate at **Worcester Polytechnic Institute**, [Vernam Lab](https://ver
 - **LeapFrog** — EuroS&P
 
 Full list with TL;DRs and highlights: [kemalderya.github.io/publications](https://kemalderya.github.io/publications/)
+
+### 🛡️ CVE Credits
+
+- **[CVE-2024-5288](https://nvd.nist.gov/vuln/detail/CVE-2024-5288)** — wolfSSL: Rowhammer-based bit-recovery attack on fault-protected ECDSA in TLS 1.3 (disclosed as part of FAULT+PROBE)
 
 ### 🔗 Links
 
